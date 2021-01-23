@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "HelloMaterial"
+  "defaultProject": "HelloMaterial",
+  "cli": {
+    "analytics": "fe5c39cd-6204-454e-9d36-da827757327f"
+  }
 }
